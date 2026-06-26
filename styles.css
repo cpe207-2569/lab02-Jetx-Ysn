@@ -1,0 +1,42 @@
+    .center-title{
+   text-align: center;
+    }
+
+    .contain{
+
+            padding: 10px;
+            border: 3px solid #5e5653;
+            display: inline-block;
+        
+    }
+
+    .contain ul{
+        text-align: left;
+    }
+
+    body{
+        background-color: #6b7c98;
+    }
+
+    h1{
+        color: #e9e6e7;
+    }
+    h2{
+        color: #e9e6e7;
+    }
+
+    
+.playfair-display-632 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 478;
+  font-style: normal;
+}
+
+
+.libre-baskerville {
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
