@@ -5,7 +5,7 @@
     .contain{
 
             padding: 10px;
-            border: 3px solid #5e5653;
+            border: 3px solid #ab978c;
             display: inline-block;
         
     }
@@ -19,9 +19,17 @@
     }
 
     h1{
-        color: #e9e6e7;
+        color: #5e5653;
     }
     h2{
+        color: #5e5653;
+    }
+
+    p{
+        color: #e9e6e7;
+    }
+
+    li{
         color: #e9e6e7;
     }
 
